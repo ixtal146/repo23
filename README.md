@@ -4,3 +4,5 @@ dogs
 cats
 pigs
 ducks
+fishes
+dolphin
