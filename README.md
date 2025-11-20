@@ -2,3 +2,5 @@
 raining
 dogs
 cats
+pigs
+ducks
